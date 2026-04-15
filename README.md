@@ -1,5 +1,5 @@
-# 💫 About Me:
 👋 Hi, I'm **Parv**  
+
 🎓 BCA Student  
 💻 Python Developer  
 🚀 Learning Web Development  
